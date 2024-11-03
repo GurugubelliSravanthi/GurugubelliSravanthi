@@ -1,6 +1,5 @@
-<p align="center">
-# Hello 👋, I'm Sravanthi
-</p>
+<h1 align="center">Hello 👋, I'm Sravanthi</h1>
+
 <p align="center">
   I'm a software developer driven by the goal of building impactful, user-focused applications. With a deep understanding of programming principles and a love for tackling challenges, I aim to deliver seamless and innovative user experiences.
 </p>
