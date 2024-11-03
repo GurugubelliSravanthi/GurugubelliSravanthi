@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer | Proficient in Java | CS Student | Passionate about crafting user-centric applications</strong>
+  <em>Full-Stack Developer with a Passion for Problem-Solving 💻</em>
 </p>
 
 <p align="center">
