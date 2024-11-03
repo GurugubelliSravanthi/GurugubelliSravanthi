@@ -1,15 +1,13 @@
-
-<div align="center">
-
 # Hello 👋, I'm Sravanthi
 
-**Full-Stack Developer | Proficient in Java | Passionate about crafting user-centric applications | CS Student**
 
-I'm a software developer driven by the goal of building impactful, user-focused applications. With a deep understanding of programming principles and a love for tackling challenges, I aim to deliver seamless and innovative user experiences.
+<p align="center">
+  I'm a software developer driven by the goal of building impactful, user-focused applications. With a deep understanding of programming principles and a love for tackling challenges, I aim to deliver seamless and innovative user experiences.
+</p>
 
-📩 **Let’s connect:** Mail to: sravanthigurgubelli@gmail.com
-
-</div>
+<p align="center">
+  📩 **Let’s connect:** Mail to: sravanthigurgubelli@gmail.com
+</p>
 
 ## Languages 
 
@@ -38,4 +36,6 @@ I'm a software developer driven by the goal of building impactful, user-focused 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+</p>
