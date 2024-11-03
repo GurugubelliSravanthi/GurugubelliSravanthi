@@ -1,11 +1,17 @@
-<h1 align="center">Hello 👋, I'm Sravanthi</h1>
-
 <p align="center">
-  I'm a software developer driven by the goal of building impactful, user-focused applications. With a deep understanding of programming principles and a love for tackling challenges, I aim to deliver seamless and innovative user experiences.
+  <strong style="font-size: 2.5em; font-weight: bold;">Hello 👋, I'm Sravanthi</strong>
 </p>
 
 <p align="center">
-  📩 **Let’s connect:** Mail to: sravanthigurgubelli@gmail.com
+  <strong>Full-Stack Developer | Proficient in Java | CS Student | Passionate about crafting user-centric applications</strong>
+</p>
+
+<p align="center">
+  <em>I'm a software developer driven by the goal of building impactful, user-focused applications. With a deep understanding of programming principles and a love for tackling challenges, I aim to deliver seamless and innovative user experiences.</em>
+</p>
+
+<p align="center">
+  📩 <strong>Let’s connect:</strong> <a href="mailto:sravanthigurgubelli@gmail.com">sravanthigurgubelli@gmail.com</a>
 </p>
 
 ## Languages 
@@ -33,8 +39,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</p>
+
 
 ## 🌐 Connect with Me
+ <a href="https://www.linkedin.com/in/sravanthigurugubelli1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-</p>
+
