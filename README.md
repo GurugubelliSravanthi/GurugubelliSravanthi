@@ -43,6 +43,6 @@
 
 
 ## 🌐 Connect with Me
- <a href="https://www.linkedin.com/in/sravanthigurugubelli1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+ <a href="https://www.linkedin.com/in/sravanthigurugubelli1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 
 
