@@ -1,6 +1,4 @@
-<p align="center">
-  <strong style="font-size: 2.5em; font-weight: bold;">Hello 👋, I'm Sravanthi</strong>
-</p>
+<h1 align="center">"Hello 👋, I'm Sravanthi</h1>
 
 ---
 
