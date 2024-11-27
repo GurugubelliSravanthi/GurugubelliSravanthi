@@ -1,7 +1,5 @@
 <h1 align="center">"Hello 👋, I'm Sravanthi</h1>
 
----
-
 <p align="center">
   <em>Full-Stack Developer with a Passion for Problem-Solving 💻</em>
 </p>
