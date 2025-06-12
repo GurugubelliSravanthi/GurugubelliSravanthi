@@ -32,6 +32,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </p>
 
+[![Sravanthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GurugubelliSravanthi&theme=react-dark)](https://github.com/GurugubelliSravanthi/github-readme-activity-graph)
+
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/sravanthigurugubelli1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
