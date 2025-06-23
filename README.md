@@ -32,7 +32,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </p>
 
-[![Sravanthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GurugubelliSravanthi&theme=react-dark)](https://github.com/GurugubelliSravanthi/github-readme-activity-graph)
 
 [![Sravanthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GurugubelliSravanthi&theme=tokyo-night)](https://github.com/GurugubelliSravanthi/github-readme-activity-graph)
 
