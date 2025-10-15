@@ -33,8 +33,7 @@
 </p>
 
 
-[![Sravanthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GurugubelliSravanthi&theme=tokyo-night)](https://github.com/GurugubelliSravanthi/github-readme-activity-graph)
-
+[![Sravanthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GurugubelliSravanthi&theme=github-compact)](https://github.com/GurugubelliSravanthi/github-readme-activity-graph)
 
 ## 🌐 Connect with Me
 
